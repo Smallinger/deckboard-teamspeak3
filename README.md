@@ -12,7 +12,7 @@ You need to have the [ClientQuery plugin](https://www.myteamspeak.com/addons/943
 2. Copy the downloaded file, an paste it into your C:\Users\<Your Username>\deckboard\extensions
 
 ### Configuration
-1. Open TeamSpeak go to Tools -> Options -> Addons -> and click on the "Settings" button on the rightside from the ClientQuery Plugin.
+1. Open TeamSpeak go to Tools -> Options -> Addons -> and click on the **"Settings"** button on the rightside from the ClientQuery Plugin.
 2. Copy your API Key.
 3. Open Deckboard click on the ⚙ Icon on the upper right corner.
 4. Go in the Extensions Tab and then press on the right side on Configs.
