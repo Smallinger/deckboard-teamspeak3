@@ -22,7 +22,7 @@ You need to have the [ClientQuery plugin](https://www.myteamspeak.com/addons/943
 
 # Changelog
 
-1.0b1 - first Released!
+v1.0.0 - first Released!
 
 # Credits
 
