@@ -2,7 +2,7 @@
 Allows you to interact with the TeamSpeak 3 Client via the ClientQuery (Telnet) with your Deckboard.
 
 ## Requirements
-You need to have the [ClientQuery plugin](https://www.myteamspeak.com/addons/943dd816-7ef2-48d7-82b8-d60c3b9b10b3) installed in your TeamSpeak 3 Client in order to use this plugin.
+You need to have the [ClientQuery plugin](https://www.myteamspeak.com/addons/943dd816-7ef2-48d7-82b8-d60c3b9b10b3) installed in your TeamSpeak 3 Client in order to use this extension.
 ## Install & Configuration 
 
 
