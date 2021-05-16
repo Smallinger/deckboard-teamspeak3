@@ -5,7 +5,7 @@ Allows you to interact with the TeamSpeak 3 Client via the ClientQuery (Telnet) 
 You need to have the [ClientQuery plugin](https://www.myteamspeak.com/addons/943dd816-7ef2-48d7-82b8-d60c3b9b10b3) installed in your TeamSpeak 3 Client in order to use this plugin.
 ## Install & Configuration 
 
-![Instructions](https://raw.githubusercontent.com/Smallinger/deckboard-teamspeak3/main/installtion.gif)
+
 
 ### Manual Installation
 1. Install the latest version from the [releases tab](https://github.com/Smallinger/deckboard-teamspeak3/releases)
@@ -18,6 +18,7 @@ You need to have the [ClientQuery plugin](https://www.myteamspeak.com/addons/943
 8. Click on Save and restart Deckboard.
 9. Select your specific board and add a new Button, scroll under action down until you find TeamSpeak 3 integration, select your action.
 
+![Instructions](https://raw.githubusercontent.com/Smallinger/deckboard-teamspeak3/main/installtion.gif)
 
 # Changelog
 
