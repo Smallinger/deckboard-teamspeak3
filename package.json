@@ -9,6 +9,7 @@
   "author": "Smallinger(M.Schirrmann)",
   "license": "MIT",
   "dependencies": {
-    "deckboard-kit": "^0.3.0"
+    "deckboard-kit": "^0.3.0",
+    "node-ts": "^5.1.1"
   }
 }
