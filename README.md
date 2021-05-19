@@ -15,7 +15,7 @@ You need to have the [ClientQuery plugin](https://www.myteamspeak.com/addons/943
 1. Open TeamSpeak go to Tools -> Options -> Addons -> and click on the **"Settings"** button on the rightside from the ClientQuery Plugin.
 2. Copy your API Key.
 3. Open Deckboard click on the ⚙ Icon on the upper right corner.
-4. Go in the Extensions Tab and then press on the right side on Configs.
+4. Go in the Extensions Tab and then press on the left side on Configs.
 5. There is a new field "ClientQuery API Key:" delete everything in it thats only your key is visited.
 6. Click on Save and **RESTART** Deckboard.
 7. Select your specific board and add a new Button, scroll under action down until you find TeamSpeak 3, select your action.
