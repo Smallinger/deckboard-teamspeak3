@@ -9,7 +9,7 @@ You need to have the [ClientQuery plugin](https://www.myteamspeak.com/addons/943
 
 ### Manual Installation
 1. Install the latest version from the [releases tab](https://github.com/Smallinger/deckboard-teamspeak3/releases)
-2. Copy the downloaded file, an paste it into your C:\Users<Your Username>\deckboard\extensions
+2. Copy the downloaded file, an paste it into your C:\Users\Your Username\deckboard\extensions
 
 ### Configuration
 1. Open TeamSpeak go to Tools -> Options -> Addons -> and click on the **"Settings"** button on the rightside from the ClientQuery Plugin.
